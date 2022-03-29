@@ -7,6 +7,11 @@ ruby '3.1.0'
 gem 'rails', '~> 7.0.2', '>= 7.0.2.3'
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Webpack and React
+
+gem 'webpacker'
+gem 'react-rails'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
