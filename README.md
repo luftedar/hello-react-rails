@@ -20,13 +20,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone repository
 
 ```
-git clone https://github.com/luftedar/hello-react-rails-world.git
+git clone https://github.com/luftedar/hello-react-rails.git
 ```
 
 - Cd into directory
 
 ```
-cd hello-react-rails-world
+cd hello-react-rails
 ```
 
 - Create the database
